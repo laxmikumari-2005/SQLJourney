@@ -27,12 +27,19 @@ revisonQueries.sql	Revision	Quick recap: create student table, insert rows, drop
 🧠 Concepts Covered
 
 1.DDL (Data Definition Language): CREATE TABLE, ALTER TABLE ... ADD / DROP COLUMN, ADD CONSTRAINT, primary keys
+
 2.DML (Data Manipulation Language): INSERT, UPDATE, DELETE, TRUNCATE
+
 3.Querying: SELECT, column selection, aliases (AS), static values
+
 4.Filtering: WHERE with =, !=, >, <, AND, OR, IS NULL
+
 5.Sorting: ORDER BY with ASC / DESC, multi-column sorting
+
 6.Aggregation: SUM, AVG, COUNT, GROUP BY, HAVING
+
 Result shaping: DISTINCT, TOP
+
 Data constraints: NOT NULL, PRIMARY KEY
 
 🧱 Sample Schema
