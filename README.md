@@ -25,6 +25,7 @@ WHEREcondition.sql	Filtering	Comparison operators and AND / OR logic
 revisonQueries.sql	Revision	Quick recap: create student table, insert rows, drop column, add primary key
 
 🧠 Concepts Covered
+
 1.DDL (Data Definition Language): CREATE TABLE, ALTER TABLE ... ADD / DROP COLUMN, ADD CONSTRAINT, primary keys
 2.DML (Data Manipulation Language): INSERT, UPDATE, DELETE, TRUNCATE
 3.Querying: SELECT, column selection, aliases (AS), static values
